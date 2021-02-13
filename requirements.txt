@@ -1,0 +1,10 @@
+pip
+setuptools
+wheel
+pip-chill
+pip-review
+
+whatimage
+exifread
+hachoir
+tinytag
